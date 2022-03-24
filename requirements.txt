@@ -11,4 +11,4 @@ matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.4.6
 networkx==2.3
-corpora
+caighdean==0.0.3 
